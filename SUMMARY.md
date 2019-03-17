@@ -9,6 +9,9 @@
 
 ## 2. 의미 있는 이름
 
-* [Untitled](2./untitled.md)
-* [Untitled](2./untitled-1.md)
+* [의도를 분명히 밝혀라](2./untitled.md)
+
+## 3. 함수
+
+* [함수](3./undefined.md)
 
