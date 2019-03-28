@@ -2,16 +2,15 @@
 
 * [Clean Code](README.md)
 
-## Chapter 1
+## Chapter 1 - 깨끗한 코드
 
-* [1. 깨끗한 코드](chapter-1/1..md)
-* [나쁜 코드와 좋은 코드](chapter-1/undefined.md)
+* [1. 깨끗한 코드](chapter-1/undefined.md)
 
-## 2. 의미 있는 이름
+## Chapter 2 - 의미 있는 이름
 
-* [의도를 분명히 밝혀라](2./untitled.md)
+* [2. 의미 있는 이름](2./untitled.md)
 
 ## 3. 함수
 
-* [함수](3./undefined.md)
+* [3. 함수](3./undefined.md)
 
