@@ -4,13 +4,13 @@
 
 ## Chapter 1 - 깨끗한 코드
 
-* [1. 깨끗한 코드](chapter-1/undefined.md)
+* [1. 깨끗한 코드](chapter-1/chapter-1.md)
 
 ## Chapter 2 - 의미 있는 이름
 
-* [2. 의미 있는 이름](2./untitled.md)
+* [2. 의미 있는 이름](chapter-2/chapter-2.md)
 
-## 3. 함수
+## Chapter 3 - 함수
 
-* [3. 함수](3./undefined.md)
+* [3. 함수](chapter-3/chapter-3.md)
 
