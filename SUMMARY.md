@@ -14,3 +14,15 @@
 
 * [3. 함수](chapter-3/chapter-3.md)
 
+## Chapter 4 - 주석
+
+* [4. 주석](chapter-4/chapter-4.md)
+
+## Chapter 5 - 형식 맞추기
+
+* [5. 형식 맞추기](chapter-5/chapter-5.md)
+
+## 6. 객체와 자료구조
+
+* [6. 객체와 자료구조](6./6..md)
+
