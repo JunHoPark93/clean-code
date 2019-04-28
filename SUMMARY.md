@@ -4,7 +4,7 @@
 
 ## Chapter 1 - 깨끗한 코드
 
-* [1. 깨끗한 코드](chapter-1/chapter-1.md)
+* [1. 깨끗한 코드](chapter-1-clean_code/chapter-1.md)
 
 ## Chapter 2 - 의미 있는 이름
 
@@ -12,29 +12,25 @@
 
 ## Chapter 3 - 함수
 
-* [3. 함수](chapter-3/chapter-3.md)
+* [3. 함수](chapter-3-function/chapter-3.md)
 
 ## Chapter 4 - 주석
 
-* [4. 주석](chapter-4/chapter-4.md)
+* [4. 주석](chapter-4-comment/chapter-4.md)
 
 ## Chapter 5 - 형식 맞추기
 
-* [5. 형식 맞추기](chapter-5/chapter-5.md)
+* [5. 형식 맞추기](chapter-5-format/chapter-5.md)
 
-## 6. 객체와 자료구조
+## Chapter 6 - 객체와 자료구조
 
-* [6. 객체와 자료구조](6./chapter-6.md)
+* [6. 객체와 자료구조](chapter-6-object-and-structure/chapter-6.md)
 
-## 10. 클래스
+## Chapter 10 - 클래스
 
-* [10. 클래스](10./chapter-10.md)
+* [10. 클래스](chapter-10-class/chapter-10.md)
 
-## 7. 예외처리
+## Chapter 9 - 단위테스트
 
-* [7. 예외처리](7./chapter-7.md)
-
-## 9. 단위테스트
-
-* [9. 단위테스트](9./chapter-9.md)
+* [9. 단위테스트](chapter-9/chapter-9.md)
 
