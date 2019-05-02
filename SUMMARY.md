@@ -20,7 +20,7 @@
 
 ## Chapter 5 - 형식 맞추기
 
-* [5. 형식 맞추기](chapter-5-format/chapter-5.md)
+* [5. 형식 맞추기](chapter-5-format/chapter-5-format.md)
 
 ## Chapter 6 - 객체와 자료구조
 
