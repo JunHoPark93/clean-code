@@ -8,7 +8,7 @@
 
 ## Chapter 2 - 의미 있는 이름
 
-* [2. 의미 있는 이름](chapter-2/chapter-2.md)
+* [2. 의미 있는 이름](chapter-2/chapter-2-meaningful-name.md)
 
 ## Chapter 3 - 함수
 
