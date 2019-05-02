@@ -28,7 +28,7 @@
 
 ## Chapter 10 - 클래스
 
-* [10. 클래스](chapter-10-class/chapter-10.md)
+* [10. 클래스](chapter-10-class/chapter-10-class.md)
 
 ## Chapter 9 - 단위테스트
 
