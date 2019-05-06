@@ -32,7 +32,7 @@
 
 ## Chapter 9 - 단위테스트
 
-* [9. 단위테스트](chapter-9/chapter-9-unit-test.md)
+* [9. 단위테스트](chapter-9-unit-test/chapter-9-unit-test.md)
 
 ## 11. 시스템
 
