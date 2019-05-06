@@ -34,7 +34,7 @@
 
 * [9. 단위테스트](chapter-9-unit-test/chapter-9-unit-test.md)
 
-## 11. 시스템
+## Chapter 11 - 시스템
 
-* [11. 시스템](11./chapter-11.md)
+* [11. 시스템](chapter-11-system/chapter-11.md)
 
